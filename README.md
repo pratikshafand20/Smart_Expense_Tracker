@@ -1,8 +1,8 @@
-# Personal Finance Tracker
+# Smart Expense Tracker
 
 ## Overview
 
-The Personal Finance Tracker is a web application designed to help users manage their finances by tracking expenses over time. The app allows users to add, update, and delete expenses, view expense reports, and generate visualizations like line charts and pie charts. It is built using React.js for the frontend and Spring Boot with PostgreSQL for the backend.
+The Smart Expense Tracker is a web application designed to help users manage their finances by tracking expenses over time. The app allows users to add, update, and delete expenses, view expense reports, and generate visualizations like line charts and pie charts. It is built using React.js for the frontend and Spring Boot with PostgreSQL for the backend.
 
 ## Features
 
@@ -38,7 +38,7 @@ The Personal Finance Tracker is a web application designed to help users manage 
 2. Navigate to the frontend directory:
 
    ```bash
-   cd personal-finance-tracker/frontend
+   cd Smart_Expense_Tracker/frontend
    ```
 
 3. Install the dependencies:
@@ -60,7 +60,7 @@ The Personal Finance Tracker is a web application designed to help users manage 
 1. Navigate to the backend directory:
 
    ```bash
-   cd personal-finance-tracker/backend
+   cd Smart_Expense_Tracker/backend
    ```
 
 2. Configure the `application.properties` file with your PostgreSQL database credentials.
